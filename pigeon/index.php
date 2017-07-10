@@ -25,7 +25,7 @@
 ?>
 <html>
 <head>
-	<title>Image Upload</title>
+	<title>Pigeon Database</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
